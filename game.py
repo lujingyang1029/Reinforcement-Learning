@@ -2,6 +2,8 @@ import environment
 import agent
 
 # ------------------------------------ environment 1 -----------------------------------------
+
+# MADE SOME CHANGES ON HOW TO USE GIT HUB
 # gridH, gridW = 4, 4
 # start_pos = None
 # end_positions = [(0, 3), (1, 3)]
